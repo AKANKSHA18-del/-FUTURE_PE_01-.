@@ -1,0 +1,6 @@
+Tools Used:
+1. ChatGPT - For generating title and script
+2. Pictory.ai / InVideo - For creating videos from scripts
+3. DALL·E - For AI-generated thumbnail image
+4. Canva - For adding text on thumbnail
+5. Notion - For managing workflow and storing documents

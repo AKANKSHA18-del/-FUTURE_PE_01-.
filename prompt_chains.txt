@@ -1,0 +1,5 @@
+Prompt Chain 1 - Generate Titles:
+For youtube video I need the title which is interesting,unique and it will give the ideas and uniqueness new and different
+
+Prompt Chain 2 - Generate Script:
+"Write a full YouTube video script (1000–1500 words) for the video titled 'How AI Will Change Your Life by 2030 (You're Not Ready)'. Include:
